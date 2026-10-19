@@ -13,7 +13,8 @@
 
 ## Запуск
 
-Установить библиотеку:
+Установить библиотеку и запустить:
 
 ```bash
 pip install pygame
+python3 cube_pygame.py
