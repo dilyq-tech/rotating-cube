@@ -1,4 +1,4 @@
-# 🐍 Вращающийся 3D-куб на Pygame
+# Вращающийся 3D-куб на Pygame
 
 ![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-2.6-green?logo=pygame&logoColor=white)
